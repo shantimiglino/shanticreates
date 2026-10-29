@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "file": "/media/just-woke-up-like-this.jpg",
+      "caption": "just woke up like this",
+      "date": "2026-10-11"
+    },
+    {
+      "file": "/media/capture-the-moment.jpg",
+      "caption": "capture the moment babe",
+      "date": "2026-10-18"
+    },
+    {
+      "file": "/media/reaching-for-the-light.jpg",
+      "caption": "Reaching for the light",
+      "date": "2026-10-04"
+    },
+    {
+      "file": "/media/against-the-rail.jpg",
+      "caption": "Against the rail",
+      "date": "2026-10-08"
+    },
+    {
+      "file": "/media/on-the-couch.jpg",
+      "caption": "On the couch",
+      "date": "2026-10-17"
+    },
+    {
+      "file": "/media/the-sky-upside-down.jpg",
+      "caption": "The sky, upside down",
+      "date": "2026-10-18"
+    }
+  ]
+}

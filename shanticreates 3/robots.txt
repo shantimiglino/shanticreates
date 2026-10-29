@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shanticreates.com/sitemap.xml
