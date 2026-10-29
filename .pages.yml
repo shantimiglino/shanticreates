@@ -1,0 +1,26 @@
+media:
+  input: media
+  output: /media
+content:
+  - name: photos
+    label: Photos & videos
+    type: file
+    path: content/photos.json
+    format: json
+    fields:
+      - name: items
+        label: Photos & videos
+        type: object
+        list: true
+        fields:
+          - name: file
+            label: Photo or video
+            type: file
+            required: true
+          - name: caption
+            label: Caption
+            type: string
+            required: true
+          - name: date
+            label: Date
+            type: date
