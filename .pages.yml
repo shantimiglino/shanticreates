@@ -1,11 +1,11 @@
 media:
-input: shanticreates 3/media
+  input: shanticreates 3/media
   output: /media
 content:
   - name: photos
     label: Photos & videos
     type: file
-path: shanticreates 3/content/photos.json
+    path: shanticreates 3/content/photos.json
     format: json
     fields:
       - name: items
